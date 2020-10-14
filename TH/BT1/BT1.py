@@ -222,6 +222,7 @@ def writeResults(code,fitness_function):
             MRPS, avg_number_of_evaluations = bisection(target=target, num_weights=num_weights, 
                                                             code=code, random_seed=random_seed,N = N,fitness_function = fitness_function)
             string = 'bisection: ' + str(i) + ', MRPS: '+ str(MRPS) + ', avg_number_of_evaluations: ' + str(avg_number_of_evaluations)+'\n'
+            if MRPS == 0: return 0
             f.write(string)
             random_seed += 10
             print('MRPS: ',MRPS)
