@@ -1,0 +1,23 @@
+l = 10
+bisection: 0, MRPS: 272, avg_number_of_evaluations: 3808.0
+bisection: 1, MRPS: 208, avg_number_of_evaluations: 4768.0
+bisection: 2, MRPS: 88, avg_number_of_evaluations: 1648.0
+bisection: 3, MRPS: 144, avg_number_of_evaluations: 2502.4
+bisection: 4, MRPS: 64, avg_number_of_evaluations: 321.6
+bisection: 5, MRPS: 28, avg_number_of_evaluations: 340.4
+bisection: 6, MRPS: 56, avg_number_of_evaluations: 927.2
+bisection: 7, MRPS: 136, avg_number_of_evaluations: 0.0
+bisection: 8, MRPS: 10, avg_number_of_evaluations: 0.0
+bisection: 9, MRPS: 112, avg_number_of_evaluations: 240.0
+l = 20
+bisection: 0, MRPS: 1280, avg_number_of_evaluations: 127488.0
+bisection: 1, MRPS: 2304, avg_number_of_evaluations: 179558.4
+bisection: 2, MRPS: 512, avg_number_of_evaluations: 5273.6
+bisection: 3, MRPS: 384, avg_number_of_evaluations: 9260.8
+bisection: 4, MRPS: 768, avg_number_of_evaluations: 28096.0
+bisection: 5, MRPS: 112, avg_number_of_evaluations: 1601.6
+bisection: 6, MRPS: 1152, avg_number_of_evaluations: 154227.2
+bisection: 7, MRPS: 1664, avg_number_of_evaluations: 116582.4
+bisection: 8, MRPS: 896, avg_number_of_evaluations: 30067.2
+bisection: 9, MRPS: 768, avg_number_of_evaluations: 20812.8
+l = 40

@@ -1,0 +1,9 @@
+Rastrigin
+Best find: 0.005130085227268211, Best position: [0.00295636 0.00413756]
+Rosenbrock
+Best find: 0.7009525530189266, Best position: [1.00466169 0.9256235 ]
+Eggholder
+Best find: -959.6262066107308, Best position: [511.99573329 404.22534866]
+Ackley
+Best find: 0.00313083883577292, Best position: [ 0.00083856 -0.00070512]
+
