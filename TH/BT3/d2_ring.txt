@@ -7,5 +7,3 @@ Best find: -959.6262066107308, Best position: [511.99573329 404.22534866]
 Ackley
 Best find: 0.00313083883577292, Best position: [ 0.00083856 -0.00070512]
 
-Ackley
-Best find: 0.00313083883577292, Best position: [ 0.00083856 -0.00070512]

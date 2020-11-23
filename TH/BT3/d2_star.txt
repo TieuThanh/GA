@@ -2,7 +2,7 @@ Rastrigin
 Best find: 3.0702509192792604e-06, Best position: [-7.26920460e-05  1.00953153e-04]
 Rosenbrock
 Best find: 0.4497697239235599, Best position: [0.98841147 0.90990238]
-Rosenbrock
+Eggholder
 Best find: -959.6399424083683, Best position: [511.99983097 404.22024113]
 Ackley
 Best find: 0.00041825212197821315, Best position: [-1.26571513e-05  1.47125720e-04]
